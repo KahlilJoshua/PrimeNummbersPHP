@@ -9,7 +9,7 @@
 
 <body>
     <form action="index.php" method="post">
-        <label for="">Skriv ett nummer</label>
+        <label>Skriv ett nummer</label>
         <input type="text" name="input">
         <input type="submit">
     </form>
