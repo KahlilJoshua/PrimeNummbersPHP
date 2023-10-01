@@ -61,6 +61,6 @@ function primeArray()
     }
 
 
-    echo " <br> {$primes} amout of prime nummbers in array";
+    echo " <br> {$primes} Amout of prime nummbers in array";
 }
 ?>
